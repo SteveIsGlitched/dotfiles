@@ -1,3 +1,5 @@
+// Based on https://github.com/Egosummiki/dotfiles/tree/master/waybar/config
+
 {
     "layer": "top", // Waybar at top layer
     "position": "top", // Waybar at the bottom of your screen
