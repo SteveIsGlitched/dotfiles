@@ -7,7 +7,6 @@ Credits to wallpaper creator, Alex Makas; I have modified those wallpapers' colo
 
 
 Preview:
-
 Day
 ![day](preview/day.png)
 Evening/morning
