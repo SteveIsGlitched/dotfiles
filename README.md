@@ -6,7 +6,8 @@ Currently not finished, missing rofi dotfiles. Repo does include very simple scr
 Credits to wallpaper creator, Alex Makas; I have modified those wallpapers' colors, decorations in GIMP. 
 
 
-Preview
+Preview:
+
 Day
 ![day](preview/day.png)
 Evening/morning
