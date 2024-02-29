@@ -11,19 +11,20 @@
     "modules-left": ["custom/power", "hyprland/workspaces", "hyprland/mode", "tray"],
     "modules-center": ["hyprland/window"],
     "modules-right": ["pulseaudio", "network", "memory", "battery", "clock#date", "clock#time"],
-"hyprland/workspaces": {
-		"format": "{name}  {icon}",
+    "hyprland/workspaces": {
+        "format": "{name}  {icon}",
 	"format-icons": {
-		"1": "",
-		"2": "󰈹",
-		"3": ""
+        	"1": "",
+        	"2": "󰈹",
+        	"3": ""
 	},
-       "persistent-workspaces": {
+        "persistent-workspaces": {
              "*": 3
-       }
-},
+        }
+    },
     "custom/power": {
-	"format": "  "
+	"format": "  ",
+	"on-click": "rofi -show power-menu -modi power-menu:rofi-power-menu"
     },
     "clock#time": {
         "interval": 1,
@@ -35,9 +36,6 @@
       "interval": 10,
       "format": "    {:%e %b %Y}", // Icon: calendar-alt
       "tooltip-format": "{:%e %B %Y}"
-    },
-    "sway/mode": {
-        "format": "<span style=\"italic\">{}</span>"
     },
     "tray": {
         // "icon-size": 21,
