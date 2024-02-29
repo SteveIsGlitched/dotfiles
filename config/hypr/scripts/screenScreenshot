@@ -1,0 +1,15 @@
+#!/bin/bash
+
+capture() {
+  time=$(date +"%Y-%m-%d_%H-%M-%S")
+
+  grimblast save screen - | wl-copy && wl-paste > $HOME/Изображения/Снимки\ экрана/Screenshot_${time}.png
+
+  if [ $? -eq 0 ]; then
+    notify-send -i picture "Screenshot taken" "The image is saved successfully."
+  else
+    notify-send -i error "Screenshot failed" "The screenshot taking have failed."
+  fi
+}
+
+capture
