@@ -1,4 +1,11 @@
+<div align="center">
+
 # dotfiles
 Personal linux dotfiles 
 
-Select a branch if you want to view dotfiles. Only branch available is called debian-rice with my Debian rice.
+</div>
+
+Choose a branch to view dotfiles. There are 2 dotfiles configurations:
+- Hyprland, Arch
+- i3,       Fedora
+Select them from dropdown
