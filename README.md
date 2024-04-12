@@ -7,3 +7,7 @@ Another repository/branch with dotfiles that feature custom Firefox theme; rofi,
 
 ## Introduction
 The previews are available below and the `preview` folder. The `config` folder contains all the dotfiles. i3-gaps, polybar, rofi, neovim, astranvim, firefox and picom is needed for a full configuration.
+
+![1](preview/1.png)
+![2](preview/2.png)
+![3](preview/3.png)
