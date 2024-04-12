@@ -13,3 +13,4 @@ You can find it in about:profiles, and it should be something like `~/.mozilla/f
 ![img1](preview/1.png)
 ![img2](preview/2.png)
 ![img3](preview/3.png)
+![img4](preview/4.png)
