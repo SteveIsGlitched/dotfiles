@@ -1,4 +1,8 @@
-# dotfiles
-Personal linux dotfiles 
+<div align="center">
 
-Select a branch if you want to view dotfiles. Only branch available is called debian-rice with my Debian rice.
+# Fedora i3wm dotfiles
+Featuring custom Firefox theme; rofi, polybar themes; i3wm and picom configurations, AstraNvim config. 
+
+</div>
+
+The previews are available below and the `preview` folder. The `config` folder contains all the dotfiles.
