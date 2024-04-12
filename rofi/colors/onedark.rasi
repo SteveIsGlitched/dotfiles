@@ -1,0 +1,16 @@
+/**
+ *
+ * Author : Aditya Shakya (adi1090x)
+ * Github : @adi1090x
+ * 
+ * Colors
+ **/
+
+* {
+    background:     #17171766;
+    background-alt: #282B3166;
+    foreground:     #FFFFFFFF;
+    selected:       #e3c59fFF;
+    active:         #e3c59fFF;
+    urgent:         #E06C75FF;
+}
